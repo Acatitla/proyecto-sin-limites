@@ -7,7 +7,7 @@ const generarPedido = () => {
         alert('categoria inválido, vuelve a intentarlo');
         window.location.href = 'index.html';
     } else {
-        if (categoria === 'abecedario') {
+        if (categoria === 'abc') {
             titulo.innerHTML = 'Abecedario';
             video.src = '';
         } else if (categoria === 'espa') {
