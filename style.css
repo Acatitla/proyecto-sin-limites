@@ -1,0 +1,11 @@
+.mi-color-fondo {
+    background-color: rgb(6, 149, 102) !important;
+    border-color: rgb(6, 149, 102);
+}
+
+.card-img {
+    width: 40%;
+    height: 40%;
+    border-color: blue 2px;
+    align-items: start;
+}
